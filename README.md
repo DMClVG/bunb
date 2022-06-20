@@ -1,2 +1,2 @@
 # bunb
-IRC Chat made within Godot
+Chat application made within Godot
